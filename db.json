@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": 69837,
+      "name": "Build a To-Do App",
+      "description": "Create a to-do application using React.",
+      "status": "Started"
+    },
+    {
+      "id": 69838,
+      "name": "Explore React Hooks",
+      "description": "Dive into React hooks and their use cases.",
+      "status": "Done"
+    },
+    {
+      "id": 69839,
+      "name": "Responsive Web Design",
+      "description": "Learn and implement responsive web design principles.",
+      "status": "Done"
+    },
+    {
+      "id": 69840,
+      "name": "JavaScript ES6+ Features",
+      "description": "Deep dive into the latest features of JavaScript ES6 and beyond.",
+      "status": "Started"
+    },
+    {
+      "id": 69846,
+      "name": "GraphQL Basics",
+      "description": "Get familiar with GraphQL and its implementation in React.",
+      "status": "Done"
+    },
+    {
+      "id": 69847,
+      "name": "Optimizing Performance",
+      "description": "Optimize the performance of a React application.",
+      "status": "Started"
+    },
+    {
+      "id": 69848,
+      "name": "Authentication in React",
+      "description": "Implement user authentication in a React application.",
+      "status": "Done"
+    },
+    {
+      "id": 69849,
+      "name": "Serverless Functions",
+      "description": "Explore and implement serverless functions in a React project.",
+      "status": "Done"
+    },
+    {
+      "id": 69850,
+      "name": "Deploying React Apps",
+      "description": "Learn different methods for deploying React applications.",
+      "status": "Started"
+    }
+  ]
+}

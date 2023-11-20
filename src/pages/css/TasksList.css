@@ -1,0 +1,63 @@
+.task-list {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+Link {
+    text-decoration: none;
+    color: #007bff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+thead {
+    background-color: #007bff;
+    color: white;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+span {
+    cursor: pointer;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+span:hover {
+    font-weight: bold;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #3498db;
+    color: #3498db;
+    background-color: #ffffff;
+    border-radius: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+button:hover {
+    background-color: #3498db;
+    color: #ffffff;
+}
